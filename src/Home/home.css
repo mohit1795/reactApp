@@ -1,0 +1,17 @@
+.home {
+    text-align: center;
+}
+
+.body {
+    margin-top: 10%;
+}
+
+.home-logo {
+    height: 10vh;
+}
+
+.autoComplete {
+    width: 25%;
+    margin: 5% auto 0 auto;
+}
+

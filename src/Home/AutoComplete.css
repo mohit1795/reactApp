@@ -1,0 +1,30 @@
+.autoCompleteBox {
+    width: 100%;
+    border: 1px solid grey;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.1), 0 2px 4px 1px rgba(0,0,0,.18); 
+}
+
+.autoCompleteBox input {
+    border: none;
+    width: 100%;
+    padding: 10px 5px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.autoCompleteBox ul {
+    list-style-type: none;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid grey;
+}
+
+.autoCompleteBox li {
+    padding: 10px 5px;
+    cursor: pointer;
+}
+
+.autoCompleteBox li:hover {
+    background-color: #cccccc;
+}
